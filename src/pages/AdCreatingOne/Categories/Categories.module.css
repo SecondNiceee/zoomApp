@@ -19,7 +19,7 @@
     /* Camption Regular */
     color: rgb(255, 255, 255);
     font-family: "SF Pro Display 400";
-    font-size: calc(50px *  0.32);
+    font-size: calc(50px *  0.325);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 1%;
@@ -28,7 +28,7 @@
 .Categories__block  .Category__link{
     color: rgb(46, 165, 255);
     font-family: "SF Pro Display 400";
-    font-size: calc(52px * 0.32);
+    font-size: calc(52px * 0.325);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 1%;

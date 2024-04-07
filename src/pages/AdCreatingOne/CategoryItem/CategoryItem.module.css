@@ -20,7 +20,7 @@ p{
     /* Default text */
     color: rgb(255, 255, 255);
     font-family: "SF Pro Display";
-    font-size: calc(44px * 0.32);
+    font-size: calc(44px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;

@@ -20,7 +20,7 @@
     min-width: calc(1ch + 10px);
     color: rgb(255, 255, 255);
     font-family: "SF Compact Rounded";
-    font-size: calc(178px * 0.32) ;
+    font-size: calc(178px * 0.325) ;
     font-weight: 500;
     line-height: normal;
     letter-spacing: 4%;
@@ -30,12 +30,12 @@
 .budgetText{
     color: rgb(218, 245, 254);
     font-family: "SF Compact Rounded";
-    font-size: calc(126px * 0.32);
+    font-size: calc(126px * 0.325);
     font-weight: 600;
     line-height: normal;
     letter-spacing: 1%;
     text-align: left;
-    margin-left: calc(23px * 0.32);
+    margin-left: calc(23px * 0.325);
     margin-top: 10px;
 }
 input:focus {outline: none;}

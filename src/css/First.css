@@ -9,7 +9,7 @@
 .EmptyText{
     color: rgb(255, 255, 255);
     font-family: "SF Pro Display";
-    font-size: calc(100px * 0.32);
+    font-size: calc(100px * 0.325);
     font-weight: 500;
     line-height: normal ;
     letter-spacing: 0%;
@@ -56,7 +56,7 @@
     /* Default text */
     color: rgb(255, 255, 255);
     font-family: "SF Pro Display";
-    font-size: calc(44px * 0.32);
+    font-size: calc(44px * 0.325);
     font-weight: 500;
     line-height: calc(53px * 0.32) ;
     letter-spacing: 0%;
@@ -89,7 +89,7 @@
     /* Small Text */
     color: rgb(149, 151, 158);
     font-family: "SF Pro Display";
-    font-size: calc(35px * 0.32);
+    font-size: calc(35px * 0.325);
     font-weight: 500;
     line-height: (37.61px*0.32);
     letter-spacing: 0%;
@@ -111,7 +111,7 @@
     /* Default text */
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display";
-    font-size: calc(44px * 0.32) ;
+    font-size: calc(44px * 0.325) ;
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -125,7 +125,7 @@
 .FirstMain__price-up h3{
     color: rgb(255, 255, 255);
     font-family: "SF Compact Rounded";
-    font-size: calc(70px * 0.32);
+    font-size: calc(70px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -184,7 +184,7 @@
     /* TON Price */
     color: rgb(255, 255, 255);
     font-family: "SF Compact Rounded";
-    font-size: calc(70px * 0.32);
+    font-size: calc(70px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -203,7 +203,7 @@
     /* Default text */
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display";
-    font-size: calc(44px * 0.32);
+    font-size: calc(44px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -230,7 +230,7 @@
     /* TON Price */
     color: rgb(255, 255, 255);
     font-family: "SF Compact Rounded";
-    font-size: calc(70px * 0.32);
+    font-size: calc(70px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -240,7 +240,7 @@
     /* Default text */
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display";
-    font-size: calc(44px * 0.32);
+    font-size: calc(44px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -257,7 +257,7 @@
 .MenuList a{
     color: rgb(149, 151, 158);
     font-family: "SF Pro Display";
-    font-size: calc(48px * 0.32);
+    font-size: calc(48px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;
@@ -280,7 +280,7 @@
     /* Menu Text */
     color: rgb(255, 255, 255);
     font-family: "SF Pro Display";
-    font-size: calc(48px * 0.32);
+    font-size: calc(48px * 0.325);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0%;

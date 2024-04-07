@@ -50,7 +50,7 @@
 .FileInput p {
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display 400";
-    font-size: calc(50px *  0.32);
+    font-size: calc(50px *  0.325);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 1%;
