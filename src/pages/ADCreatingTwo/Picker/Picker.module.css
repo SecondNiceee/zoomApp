@@ -1,14 +1,14 @@
 .Picker{
-    border-radius: calc(25px * 0.2) ;
-    background: rgba(118, 118, 128, 0.24);
+    border-radius: calc(25px * 0.32) ;
+    background: rgba(118, 118, 128, 0.324);
     display: flex;
     position: relative;
 
 }
 .left{
     display: flex;
-    padding-top: calc(20px * 0.2);
-    padding-bottom: calc(20px * 0.2);
+    padding-top: calc(20px * 0.32);
+    padding-bottom: calc(20px * 0.32);
     align-items: center;
     justify-content: center;
     width: 50%;
@@ -17,8 +17,8 @@
 }
 .right{
     display: flex;
-    padding-top: calc(20px * 0.2);
-    padding-bottom: calc(20px * 0.2);
+    padding-top: calc(20px * 0.32);
+    padding-bottom: calc(20px * 0.32);
     align-items: center;
     justify-content: center;
     width: 50%; 
@@ -28,19 +28,19 @@
 p{
     color: rgb(255, 255, 255);
     font-family: "SF Pro Text";
-    font-size: calc(40px * 0.2);
+    font-size: calc(40px * 0.32);
     font-weight: 600;
     line-height: normal;
     text-align: center;
 }
 .greyBlock{
     width: 50%;
-    border-radius: calc(25px * 0.2) ;
+    border-radius: calc(25px * 0.32) ;
     position: absolute;
     height: 100%;
     border: 1.57px solid rgba(0, 0, 0, 0.04);
     background: rgb(99, 99, 102);
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .greyBlock.rightBlock{
 

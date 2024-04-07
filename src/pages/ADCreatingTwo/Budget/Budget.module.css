@@ -1,6 +1,6 @@
 .Budget{
     display: flex;
     flex-direction: column;
-    gap: calc(23px * 0.2);
+    gap: calc(23px * 0.32);
     
 }

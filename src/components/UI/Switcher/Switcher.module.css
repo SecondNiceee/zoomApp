@@ -1,11 +1,11 @@
 .Switcher{
-    width: calc(153px * 0.2);
-    height: calc(93px * 0.2);
-    border-radius: calc(46px * 0.2);
-    border-radius: calc(46.5px * 0.2);
+    width: calc(153px * 0.32);
+    height: calc(93px * 0.32);
+    border-radius: calc(46px * 0.32);
+    border-radius: calc(46.5px * 0.32);
     background: rgb(99, 98, 103);
     position: relative;
-    transition: 0.2s;
+    transition: 0.32s;
     cursor: pointer;
     /* background: rgb(45, 200, 83); */
 }
@@ -15,8 +15,8 @@
 .circle {
     position: absolute;
     transition: 0.3s;
-    width: calc(78px * 0.2);
-    height: calc(78px * 0.2);
+    width: calc(78px * 0.32);
+    height: calc(78px * 0.32);
     border-radius: 50%;
     background: white;
     left: 3px;

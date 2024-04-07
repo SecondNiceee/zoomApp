@@ -1,60 +1,60 @@
 .modal {
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .modal-enter {
     transform: translateY(100%);
 }
 .modal-enter-active{
     transform: translateY(0%);
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .modal-exit{
     transform: translateY(0%);
 }
 .modal-exit-active{
     transform: translateY(100%);
-    transition: 0.2s;
+    transition: 0.32s;
 }
 
 .modal-two {
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .modal-two-enter {
     transform: translateY(100%);
 }
 .modal-two-enter-active{
     transform: translateY(0%);
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .modal-two-exit{
     transform: translateY(0%);
 }
 .modal-two-exit-active{
     transform: translateY(100%);
-    transition: 0.2s;
+    transition: 0.32s;
 }
 .sub__wrapper{
     display: flex;
     flex-direction: column;
-    gap: calc(24px * 0.2);
-    margin-top: calc(55px * 0.2);
+    gap: calc(24px * 0.32);
+    margin-top: calc(55px * 0.32);
 }
 .SubBlock{
     display: flex;
     justify-content: space-between;
-    padding: calc(52px * 0.2);
-    border-radius: calc(30px * 0.2);
+    padding: calc(52px * 0.32);
+    border-radius: calc(30px * 0.32);
     align-items: center;
     img{
-        width: calc(20px*0.2);
-        height: calc(33px * 0.2);
+        width: calc(20px*0.32);
+        height: calc(33px * 0.32);
     }
 
 /* Cards */
     background: rgb(32, 48, 63);
 }
 .subCategory__oneInput{
-    margin-top: calc(55px * 0.2);
+    margin-top: calc(55px * 0.32);
 }
 .subCategory__container{
     display: flex;
@@ -65,12 +65,12 @@
     left: 0;
     bottom: 0;
     background: rgb(24, 34, 45);
-    padding-left: calc(48px* 0.2);
-    padding-right: calc(48px* 0.2);
-    padding-top: calc(56px* 0.2);
+    padding-left: calc(48px* 0.32);
+    padding-right: calc(48px* 0.32);
+    padding-top: calc(56px* 0.32);
 }
 .arrowRight{
     
-    width: calc(20px*0.2);
-    height: calc(33px * 0.2);
+    width: calc(20px*0.32);
+    height: calc(33px * 0.32);
 }

@@ -2,8 +2,8 @@
     display: none;
  }
  .fileImage{
-    width: calc(51px * 0.2);
-    height: calc(51px * 0.2);
+    width: calc(51px * 0.32);
+    height: calc(51px * 0.32);
     transform: translateY(2px);
  }
  .labelImages{
@@ -12,7 +12,7 @@
  }
  .MainLabel{
     display: flex;
-    gap: calc(17px * 0.2);
+    gap: calc(17px * 0.32);
     align-items: center;
     flex-grow: 1;
  }
@@ -24,11 +24,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: calc(24px * 0.2);
+    gap: calc(24px * 0.32);
     width: 100%;
     height: 100%;
     text-align: center;
-    min-height: calc(310px* 0.2);
+    min-height: calc(310px* 0.32);
  }
  .ActiveMainLabel p {
     text-align: center;
@@ -38,8 +38,8 @@
 
  }
 .FileInput{
-    padding: calc(36px * .367) calc(50px * 0.2);
-    border-radius:calc(30px * 0.2) ;
+    padding: calc(36px * .367) calc(50px * 0.32);
+    border-radius:calc(30px * 0.32) ;
     background: rgb(32, 48, 63);
     cursor: pointer;
     display: grid;
@@ -50,7 +50,7 @@
 .FileInput p {
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display 400";
-    font-size: calc(50px *  0.2);
+    font-size: calc(50px *  0.32);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 1%;
@@ -66,10 +66,10 @@
     text-align: center;
  }
  .removeIcon{
-    width: calc(45px * 0.2);
-    height: calc(52px * 0.2);
-    right: calc(20px * 0.2);
-    top: calc(15px * 0.2);
+    width: calc(45px * 0.32);
+    height: calc(52px * 0.32);
+    right: calc(20px * 0.32);
+    top: calc(15px * 0.32);
     position: absolute;
  }
  .imageFeetContainer{

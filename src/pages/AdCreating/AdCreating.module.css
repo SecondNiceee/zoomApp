@@ -9,18 +9,18 @@
     height: 100%;
 }
 .Cap {
-    margin-top: calc(70px * 0.2);
-    margin-left: calc(48px * 0.2);
+    margin-top: calc(70px * 0.32);
+    margin-left: calc(48px * 0.32);
 }
 .Categories{
-    margin-top: calc(23px *  0.2);
+    margin-top: calc(23px *  0.32);
 }
 .DescriptionAndPhoto{
     display: flex;
     flex-direction: column;
-    margin-top: calc(90px * 0.2);
-    gap: calc(24px * 0.2);
+    margin-top: calc(90px * 0.32);
+    gap: calc(24px * 0.32);
 }
 .MakePrivate{
-    margin-top: calc(100px * 0.2);
+    margin-top: calc(100px * 0.32);
 }

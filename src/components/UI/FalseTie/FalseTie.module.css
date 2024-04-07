@@ -2,6 +2,6 @@
 
 }
 .FalseTie img{
-    width: calc(45px * 0.2);
-    height: calc(54px * 0.2);
+    width: calc(45px * 0.32);
+    height: calc(54px * 0.32);
 }

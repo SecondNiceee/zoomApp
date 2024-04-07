@@ -356,8 +356,8 @@
   line-height: normal;
   letter-spacing: 0%;
   text-align: left;
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 .FirstMenu .MenuList a:hover {
   color: rgb(255, 255, 255);
@@ -877,8 +877,8 @@
 }
 
 .modal {
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .modal-enter {
@@ -891,8 +891,8 @@
   -webkit-transform: translateY(0%);
       -ms-transform: translateY(0%);
           transform: translateY(0%);
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .modal-exit {
@@ -905,13 +905,13 @@
   -webkit-transform: translateY(100%);
       -ms-transform: translateY(100%);
           transform: translateY(100%);
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .modal-two {
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .modal-two-enter {
@@ -924,8 +924,8 @@
   -webkit-transform: translateY(0%);
       -ms-transform: translateY(0%);
           transform: translateY(0%);
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .modal-two-exit {
@@ -938,8 +938,8 @@
   -webkit-transform: translateY(100%);
       -ms-transform: translateY(100%);
           transform: translateY(100%);
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
+  -webkit-transition: 0.32s;
+  transition: 0.32s;
 }
 
 .sub__wrapper {

@@ -7,7 +7,7 @@
     /* Default text CAPS */
     color: rgb(132, 137, 143);
     font-family: "SF Pro Display";
-    font-size: calc(40px*0.2);
+    font-size: calc(40px*0.32);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 2%;
@@ -17,7 +17,7 @@
 .Holding p:nth-child(2){
     color: rgb(255, 255, 255);
     font-family: "SF Compact Rounded";
-    font-size: calc(178px * 0.2);
+    font-size: calc(178px * 0.32);
     font-weight: 500;
     line-height: normal;
     letter-spacing: 4%;
@@ -27,7 +27,7 @@
     /* Description */
     color: rgb(218, 245, 254);
     font-family: "SF Pro Display";
-    font-size: calc(40px*0.2);
+    font-size: calc(40px*0.32);
     font-weight: 400;
     line-height: normal;
     letter-spacing: 2%;
